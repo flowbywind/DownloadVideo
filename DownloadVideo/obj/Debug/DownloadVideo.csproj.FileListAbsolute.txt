@@ -1,0 +1,17 @@
+D:\Code\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.exe.config
+D:\Code\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.exe
+D:\Code\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.pdb
+D:\Code\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.Form1.resources
+D:\Code\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.Properties.Resources.resources
+D:\Code\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.csproj.GenerateResource.Cache
+D:\Code\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.exe
+D:\Code\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.pdb
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.exe.config
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.exe
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.pdb
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.csprojResolveAssemblyReference.cache
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.Form1.resources
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.Properties.Resources.resources
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\obj\Debug\DownloadVideo.csproj.GenerateResource.Cache
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.exe
+E:\Project\Git\Winform\DownloadVideo\DownloadVideo\bin\Debug\DownloadVideo.pdb
