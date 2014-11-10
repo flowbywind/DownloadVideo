@@ -158,11 +158,14 @@ namespace DownloadVideo {
                    if (!Directory.Exists(multifilePath)) {
                        Directory.CreateDirectory(multifilePath);
                    }
-                   using (var client = new WebClient()) {
-                       string file = string.Format(@"{0}\{1}.flv", multifilePath, model.Title+"_"+index);
-                       client.DownloadFileAsync(new Uri(model.UrlDownloadList[0]), file);
-                       index=index+1;
+                   for (int i = 0; i < model.UrlDownloadList.Count; i++) {
+                       using (var client = new WebClient()) {
+                           string file = string.Format(@"{0}\{1}.flv", multifilePath, model.Title + "_" + i);
+                           client.DownloadFileAsync(new Uri(model.UrlDownloadList[i]), file);
+                           index = index + 1;
+                       }
                    }
+                  
                 }
             }
            
